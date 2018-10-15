@@ -1,0 +1,38 @@
+.common_input{
+	display: inline;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#search_button{
+	height:100%;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+
+.nav_button{
+	display: inline;
+	float:right;
+}
+
+#data_table{
+	margin-top: 10px;
+}
+
+.msg_div{
+	margin-top: 10px;
+}
+
+#remove_btn{
+	display:block;
+	padding:1px 6px;
+	float:right;
+	font-weight: 400;
+}
+
+.btn-primary{
+	margin-top: 10px;
+}
+.alert{
+	padding:5px;
+}
